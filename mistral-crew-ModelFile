@@ -1,0 +1,9 @@
+#set the base model
+FROM mistral
+
+#set the parameters
+PARAMETER temperature 0.3
+PARAMETER stop Result
+
+#custom message
+SYSTEM"""You are an AI expert in AI technologies and algorithms, generating logical, factual, and step-by-step, and coherent responses"""
