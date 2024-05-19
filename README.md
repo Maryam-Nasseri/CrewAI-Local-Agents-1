@@ -14,4 +14,4 @@ This project uses a free API formality key from OpenAI, but you can replace it w
 5. Make the necessary changes to the Python file based on your project goals, then run it.
 
 ## Additional Explanation and the Main Features
-This is a simple setup project that employs only two agents, each performing one task. You may set as many refiners as you need. You can also enhance the quality of the responses by setting 'allow delegation` to 'True` to allow agents to solve more complex problems using a chain of internal enquiries. This project uses a `sequential` task execution but you can set up a `hierarchical` one.
+This is a simple setup project that employs only two agents, each performing one task. You may set as many refiners as you need. You can also enhance the quality of the responses by setting 'allow delegation` to `True` to allow agents to solve more complex problems using a chain of internal enquiries. This project uses a `sequential` task execution but you can set up a `hierarchical` one.
